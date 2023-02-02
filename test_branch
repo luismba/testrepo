@@ -1,0 +1,3 @@
+# New file from child_branch
+
+print('Hello form branch_child branch')
